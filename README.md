@@ -3,8 +3,8 @@
   
   This was an university project for the "Design and programming environments" ("Design- und Programmierumgebungen") Course at the Babes-Bolyai University, Mathematics and Informatics Faculty, Computer Science in German Specialisation.
 
-  You can find the link for the online presentarion here:
-    http://mpp.lim-it-less.com/
-    
+  You can find the link for the online presentarion here:<br>
+     http://mpp.lim-it-less.com/
+     
   Or on the Cloud where you can send feedback (Atlassian - Confluence):
-    https://flightsimulator.atlassian.net/wiki/spaces/FS1/overview
+     https://flightsimulator.atlassian.net/wiki/spaces/FS1/overview
